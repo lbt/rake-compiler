@@ -1,5 +1,5 @@
-rake-compiler (0.7.6-1) UNRELEASED; urgency=low
+rake-compiler (0.7.6-2) UNRELEASED; urgency=low
 
-  * Initial release (Closes: #nnnn)
+  * Initial release based on gem2deb
 
  -- David Greaves <david@ash.dgreaves.com>  Sat, 26 Mar 2011 15:03:35 +0000
